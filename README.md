@@ -1,5 +1,18 @@
 # Bounty Hour
 
+## Todo
+
+1. Getting started
+    * How to actually build a site like this?
+    * Designs
+    * Tech stack
+2. First steps
+    * Mockups of core pages:
+        * Bounty search
+        * Bounty submit
+        * Profile view
+        * Claimed bounty view (both sides)
+
 ## Elevator pitches / tl;dr
 
 ### Developers
@@ -25,13 +38,14 @@ Got a problem that's been plaguing you for months, and nobody on the team seems 
         * Detailed description
         * Success requirements
         * Bounty
+        * Timezone
         * Company (optional)
 * Hunter "reserves" the bounty, then has 24hr to attempt, can claim whenever completed
 * Income sources
     * X% fee of the bounty, primarily to cover escrow costs
     * "Premium" hunters, perhaps additional verification (video call?)
 
-## Components
+## Abilities
 
 ### Open bounty management
 
@@ -52,6 +66,11 @@ Got a problem that's been plaguing you for months, and nobody on the team seems 
 ### Hunter / Poster management
 
 * Ability to view profile
+    * Posted bounties
+    * Claimed bounties
+    * Completed bounties
+    * Feedback
+    * Timezone
 * Ability to signup
 * Ability to login
 
@@ -64,3 +83,8 @@ Got a problem that's been plaguing you for months, and nobody on the team seems 
 
 * Ability to accept money in escrow
 * Ability to pay out(!)
+
+## Technical
+
+* Database of users, bounties, etc.
+* Frontend
