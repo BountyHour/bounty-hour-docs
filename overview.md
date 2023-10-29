@@ -2,11 +2,11 @@
 
 ## What is it?
 
-Bounty Hour is a micro-contracting marketplace, based on the "bug bounty" system. Development teams who are unable to solve an issue and require a specialist can submit a bounty, and specialists can pick it up. The bounty is only paid out when (or if) the work is completed, and may be attempted by multiple specialists. Each specialist only has 24hr to complete a bounty, after which it is freed up for another.
+Bounty Hour is a micro-contracting marketplace, loosely based on the "bug bounty" system. Development teams who are unable to solve an issue (bug / issue / feature) and require a specialist can submit a bounty, that specialists can pick up. The bounty is only paid out when (or if) the work is completed, and may be attempted by multiple specialists. Each specialist only has 24hr to complete a bounty, after which it is freed up for another.
 
 This system ensures development teams only pay when their problem is solved, whilst also providing an incentive for bounty hunters to complete tasks as efficiently as possible. 
 
-Hunting bounties is not intended as a full time job, or even a major income, but as a side hustle for software engineers with extra capacity.
+Hunting bounties is not intended as a full time job, or even a major income, but as a side hustle for software engineers with extra capacity. It is also not intended for full feature development, but for the occasional seemingly unsolvable problem.
 
 ## Targeted vision
 
