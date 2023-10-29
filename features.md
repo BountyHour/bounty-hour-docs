@@ -11,7 +11,7 @@
     * Feedback
     * Timezone / country (can change rarely)
     * Last active
-    * Links
+    * Links (GitHub, LinkedIn, etc)
 * Ability to signup (no difference between bounty hunters & posters)
 * Ability to login
 
