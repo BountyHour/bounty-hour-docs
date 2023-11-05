@@ -1,26 +1,32 @@
 # Todo
 
 0. Planning
-    * Identify WHAT web framework is needed for this.
-        * Can look at StackOverflow "most wanted" frameworks.
-        * Looks like React is what I want... but what's the difference between React and Angular?
+    * ~~Identify WHAT web framework is needed for this.~~ React!
     * Identify how data can be stored, and full tech stack in [technical](technical.md).
     * ~~Learn how to use Figma effectively~~ Use a theme!
 1. Pre-PoC
-    * DESIGN: What's the overall branding? Colours etc?
-        * React seems most popular...
-        * Landrick? [Angular](https://themeforest.net/item/landrick-angular-11-landing-page-template/29754145) / [React](https://themeforest.net/item/landrick-react-landing-page-template/25074729) / [More detailed?](https://themeforest.net/item/landrick-responsive-saas-and-software-template/)
-    * MOCKUPS: HTML mockups of core pages:
+    * ~~DESIGN: What's the overall branding? Colours etc?~~ Landrick!
+    * Learn how to use React
+        * ~~Find a good / recommended tutorial: https://react.dev/learn/tutorial-tic-tac-toe~~
+        * ~~Work through the basics~~
+        * Work through the... not so basics
+        * Get Landrick building locally
+        * Learn basics of remote deployment... but don't yet
+    * MOCKUPS: Static mockups of core pages:
+        * Homepage
         * Bounty search
         * Bounty submit
         * Profile view
         * In progress bounty (both sides)
         * Sign up
     * TECHNICAL: Technical stack decided:
-        * How to host remote & local
+        * How to host remote & local (node.js, npm, Vercel?)
         * Approx running costs
         * How to deploy / update / code control
 2. PoC
+    * General setup
+        * Copied project, source control, etc
+        * Metadata, industry standards, etc
     * Database schema 
     * Implement signup / login
     * Implement bounty submit / search

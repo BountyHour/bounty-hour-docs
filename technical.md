@@ -2,5 +2,7 @@
 
 ## Tech stack
 
-* Some sort of framework...
-* Something easily scalable.
+* Framework: React & next.js
+* Database: ?
+* Hosting: ?
+* Other things!
