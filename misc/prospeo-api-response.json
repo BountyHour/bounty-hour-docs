@@ -1,0 +1,572 @@
+{
+    "error": false,
+    "response": {
+        "first_name": "Jake",
+        "last_name": "Lee",
+        "full_name": "Jake Lee",
+        "gender": "male",
+        "job_title": "Staff Android @ Seatfrog \ud83d\udc38",
+        "linkedin": "https://www.linkedin.com/in/jake-lee",
+        "summary": "A highly driven mobile developer and leader with proven experience on top apps (e.g. Photobox, Metro Bank, ITV Hub).",
+        "premium": false,
+        "skills": "Android, Kotlin, Android Development, Web Development, Software Development, Blogging, Android Data Binding, Java, JavaScript, Cascading Style Sheets (CSS), Microsoft SQL Server, C#, SQL, HTML, MySQL, PHP, Firebase, JSON, Git, RxJava",
+        "work_experience": [
+            {
+                "company": {
+                    "id": 7930456,
+                    "name": "Seatfrog",
+                    "logo": "https://media.licdn.com/dms/image/D4E0BAQFsv6TiCHfGGA/company-logo_400_400/0/1704273425508/seatfrog_logo?e=1712793600&v=beta&t=S2y1IlDCs6LlyEL-mVNsrOVZw86s_wlutsbG83HVGoI",
+                    "url": "https://www.linkedin.com/company/seatfrog/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 7,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": null,
+                                "day": null,
+                                "year": null
+                            }
+                        },
+                        "company": "Seatfrog",
+                        "description": null,
+                        "title": "Staff Android Engineer",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 832810,
+                    "name": "Photobox",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQE7KRR4w1mtrw/company-logo_400_400/0/1630576937305/photobox_logo?e=1712793600&v=beta&t=j7xjUmXwkfwJJqNQLbdFeXaKhPMIPJcCErrI8kAUQsQ",
+                    "url": "https://www.linkedin.com/company/photobox/",
+                    "employees": {
+                        "start": 501,
+                        "end": 1000
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 7,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2022
+                            },
+                            "end": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2023
+                            }
+                        },
+                        "company": "Photobox",
+                        "description": "Managing the 9-person iOS & Android team working on the Photobox app.",
+                        "title": "Engineering Manager",
+                        "employment_type": "Full-time"
+                    },
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2022
+                            },
+                            "end": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2022
+                            }
+                        },
+                        "company": "Photobox",
+                        "description": "Interim line management for 4-person Android team, in addition to technical leadership.",
+                        "title": "Principal Android Engineer / Interim Engineering Manager",
+                        "employment_type": "Full-time"
+                    },
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2022
+                            }
+                        },
+                        "company": "Photobox",
+                        "description": "Technical leadership for the Photobox app, alongside coordinating feature development and roadmap.",
+                        "title": "Principal Android Engineer",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2694546,
+                    "name": "Metro Bank (UK)",
+                    "logo": "https://media.licdn.com/dms/image/D4E0BAQGpiHBrEHIdOg/company-logo_400_400/0/1688637375149/metro_bank_uk__logo?e=1712793600&v=beta&t=aL4Ritk7OV5FRmes6s9JAPoP5alg3cWrKeEvjELZCS0",
+                    "url": "https://www.linkedin.com/company/metro-bank-uk-/",
+                    "employees": {
+                        "start": 1001,
+                        "end": 5000
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 11,
+                        "day": null,
+                        "year": 2020
+                    },
+                    "end": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 11,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Metro Bank (UK)",
+                        "description": null,
+                        "title": "Lead Mobile Developer (Android)",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 1229101,
+                    "name": "Candyspace",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQEnvh98Qx4ylA/company-logo_400_400/0/1630524672077/candyspace_media_logo?e=1712793600&v=beta&t=4RjSpdNMPosE3oXo9eDSAfDmHrrHz5GPPt2ldWO1GPM",
+                    "url": "https://www.linkedin.com/company/candyspace-media/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2019
+                    },
+                    "end": {
+                        "month": 11,
+                        "day": null,
+                        "year": 2020
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 11,
+                                "day": null,
+                                "year": 2020
+                            }
+                        },
+                        "company": "Candyspace",
+                        "description": "As the Senior then Lead Android Developer I helped ITV Hub achieve the highest ratings and lowest crash rate of all time, whilst delivering features and evolving the CI server. This was done with a brand new 4-7 person team where I handled all appraisals, recruitment, and day to day oversight.\n\nMajor app features implemented by the team during this period include: \n\u2022 Atomic design homepage redesign\n\u2022 Episode downloading functionality\n\u2022 Continue watching / autoplay functionality\n\u2022 VAST 4.1 support (adverts)\n\u2022 Cross-promotional functionality with BritBox\n\nMajor codebase / process improvements during this period include: \n\u2022 App bundle migration (reducing app size by 30%!)\n\u2022 Dagger 2 migration\n\u2022 Internal App Sharing QA migration",
+                        "title": "Lead Android Developer",
+                        "employment_type": null
+                    },
+                    {
+                        "location": "London, England, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2019
+                            },
+                            "end": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2020
+                            }
+                        },
+                        "company": "Candyspace",
+                        "description": null,
+                        "title": "Senior Android Developer",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2416190,
+                    "name": "ingenie",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQFgHTEpEbx3eA/company-logo_400_400/0/1631434468598/ingenie_limited_logo?e=1712793600&v=beta&t=kTeJI-zgngYIeZ_SX3SfE6KewQYHqdEk-Slc8sqkymE",
+                    "url": "https://www.linkedin.com/company/ingenie-limited/",
+                    "employees": {
+                        "start": 11,
+                        "end": 50
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 2,
+                        "day": null,
+                        "year": 2018
+                    },
+                    "end": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2019
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Leatherhead, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 2,
+                                "day": null,
+                                "year": 2018
+                            },
+                            "end": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2019
+                            }
+                        },
+                        "company": "ingenie insurance",
+                        "description": "As the Senior Android Developer at ingenie, I was responsible for two major app launches and their ongoing development, as well as maintaining existing apps. In addition, I introduced new technologies, work styles (GitFlow, SemVer), and services (Loco).\n\n\"ANWB Veilig Rijden\" - A multi-module, multi-flavour Kotlin app, featuring automatic journey recording, insurance discounts, and driving analysis, all in ANWB's native Dutch. Requiring complex Bluetooth and GPS (as well as other device sensors) monitoring, the app automatically records user's journeys with 85%+ accuracy.\n\nDevelopment utilises the latest AndroidX navigation libraries in an MVP pattern, as well as Realm, RxJava, OkHTTP, Dagger, and Firebase. Crashlytics, unit tests, UI tests (via Firebase Test Labs), and automated deployments (via Circle CI) ensure a high quality and reliable product, perfect for the largest non-profit in The Netherlands.\n\n\"ingenie Learner\" - A Kotlin app aiming to assist learner drivers in preparing for their test, featuring journey tracking, trophies, and test reminders.",
+                        "title": "Senior Android Developer",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 11427777,
+                    "name": "Creators.Direct",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQGrKlSB9C2HjQ/company-logo_400_400/0/1631336680587?e=1712793600&v=beta&t=Lm07NbU33BHnpRKNgATGQxtnmqNKV2t2PW5ZclEpbS8",
+                    "url": "https://www.linkedin.com/company/creators-direct/",
+                    "employees": {
+                        "start": 2,
+                        "end": 10
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2017
+                    },
+                    "end": {
+                        "month": 2,
+                        "day": null,
+                        "year": 2018
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Guildford, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2017
+                            },
+                            "end": {
+                                "month": 2,
+                                "day": null,
+                                "year": 2018
+                            }
+                        },
+                        "company": "Creators.Direct",
+                        "description": "As the CTO and co-founder of the small start-up Creators.Direct, I used my full-stack experience to lead development on a collection of products (Android, iOS, Web), as well as outsourcing where necessary. \n\nThis included the planning, design, and building of sales & management sites and core databases, as well as configuring all servers, security protocols, and automated tasks. Additionally, the service integrated with 20+ APIs for data synchronisation & financial services.\n\nDuring this role, I managed overseas subordinates\u2019 tasks, deadlines, and progression, whilst developing my own portions of the codebase. The start-up has now unfortunately shut down (see attached closure notification).",
+                        "title": "Co-Founder / CTO",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2937082,
+                    "name": "First Option Software",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQFG0BhsAqdodw/company-logo_400_400/0/1631313059803?e=1712793600&v=beta&t=mAlEL4DCzqLx8K5iBZ47DqXal-pkp2wVariqgIeV188",
+                    "url": "https://www.linkedin.com/company/first-option-software/",
+                    "employees": {
+                        "start": 11,
+                        "end": 50
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2014
+                    },
+                    "end": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2017
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "New Alresford, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2014
+                            },
+                            "end": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2017
+                            }
+                        },
+                        "company": "First Option Software",
+                        "description": "As a Software Engineer at First Option Software, I developed my skills across an extremely broad set of languages and technologies, eventually specialising in Android. As my experience grew, I became responsible for the ongoing development and support of one of our two largest clients (Imperial Consultants, see attached case study). \n\nThis involved managing a 500GB+ MySQL DB synced with 50+ remote SQLExpress instances, handling day-to-day support issues, and introducing new documentation and code management policies to drastically improve testability and deployment speed.\n\nTowards the end of my employment, I focused primarily on Android development for clients, utilising camera APIs, audio APIs, background syncing, GCM, and other advanced Android functionalities.\n\nAdditionally, I developed Access databases, ColdFusion backends, server migrations, full website redesigns and much more for other clients.",
+                        "title": "Software Engineer",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": null,
+                    "name": "Steamer Trading Ltd",
+                    "logo": null,
+                    "url": null,
+                    "employees": {
+                        "start": null,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 10,
+                        "day": null,
+                        "year": 2013
+                    },
+                    "end": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2014
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "St Albans, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 10,
+                                "day": null,
+                                "year": 2013
+                            },
+                            "end": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2014
+                            }
+                        },
+                        "company": "Steamer Trading Ltd",
+                        "description": "3-4 days/week during university studies.",
+                        "title": "Sales Associate",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 643869,
+                    "name": "BD Network",
+                    "logo": "https://media.licdn.com/dms/image/C4E0BAQE9nLjaZg1hGw/company-logo_400_400/0/1631328690161?e=1712793600&v=beta&t=oFrZMnLWbWYlNxjjif972hRaVqaEA_mulbDhKpLbHUI",
+                    "url": "https://www.linkedin.com/company/bd-network/",
+                    "employees": {
+                        "start": 11,
+                        "end": 50
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2009
+                    },
+                    "end": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2009
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "London, United Kingdom",
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2009
+                            },
+                            "end": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2009
+                            }
+                        },
+                        "company": "BD Network",
+                        "description": null,
+                        "title": "Intern",
+                        "employment_type": null
+                    }
+                ]
+            }
+        ],
+        "education": [
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": 2024
+                    }
+                },
+                "school": {
+                    "name": "The Open University Business School",
+                    "logo": "https://media.licdn.com/dms/image/D4E0BAQGeLWxSWb19ug/company-logo_400_400/0/1688549035075/the_open_university_business_school_logo?e=1712793600&v=beta&t=5nBS31TXXvqS5zofPskk7ecZpTBpIu3HgASjvOTfEIY",
+                    "url": "https://www.linkedin.com/school/the-open-university-business-school/"
+                },
+                "degree_name": "Master of Business Administration - MBA",
+                "field_of_study": "Technology Management",
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year100 14407  100 14358  100    49  19434     66 --:--:-- --:--:-- --:--:-- 19521ire",
+                        "logo": "https://media.licdn.com/dms/image/C4E0BAQHihXuzWjerRQ/company-logo_400_400/0/1641905179674/university_of_bedfordshire_logo?e=1712793600&v=beta&t=YTvLP9H_Cnj2c5Y-XR5MCjX_q3_9P98NmiC4ZKmHIrI",
+                        "url": "https://www.linkedin.com/school/university-of-bedfordshire/"
+                    },
+                    "degree_name": "Bachelor's degree",
+                    "field_of_study": "Computer Science",
+                    "grade": null
+                }
+            ],
+            "languages": {
+                "primary_locale": {
+                    "country": "US",
+                    "language": "en"
+                },
+                "supported_locales": [
+                    {
+                        "country": "US",
+                        "language": "en"
+                    }
+                ],
+                "profile_languages": []
+            },
+            "current_job_year": 2023,
+            "current_job_month": 7,
+            "entity_urn": "ACoAACK-VYkBphk88v0K-C3Mssn-MetekXKHirg",
+            "picture": "https://assets-prospeo.s3.us-east-2.amazonaws.com/lead_4GR2JPCMMR5T30BQ5PXL.jpg",
+            "email": {
+                "email": "jake.lee@seatfrog.com",
+                "email_anon_id": "OTHO8cSH2zQt",
+                "email_status": "CATCH_ALL",
+                "email_type": "professional"
+            },
+            "company": {
+                "name": "Seatfrog",
+                "is_catch_all": true,
+                "size": "51-200",
+                "logo": "https://assets-prospeo.s3.us-east-2.amazonaws.com/company_8IGX0JC3PIOFDFLMVLM3.jpg",
+                "linkedin": "https://www.linkedin.com/company/seatfrog",
+                "website": "http://www.seatfrog.com",
+                "domain": "seatfrog.com",
+                "common_email_pattern": null,
+                "industry": "IT Services and IT Consulting",
+                "founded_in": 2016,
+                "description": "The only app you can buy train tickets, upgrade to 1st class, change train times and much more. Join over 1 million customers who have saved \u00a343 million with the app that's made for the world you live in.\n\nWe're on a mission to build a better future for Rail and its billions of passengers, for good.\n\nFind out more:\nhttps://seatfrog.com",
+                "total_emails": 28,
+                "location": {
+                    "country": "United Kingdom",
+                    "country_code": "GB",
+                    "state": null,
+                    "city": "London",
+                    "timezone": "Europe/London",
+                    "timezone_offset": "1.0",
+                    "postal_code": null,
+                    "address": "35-41 Folgate Street"
+                }
+            },
+            "location": {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "state": "England",
+                "city": "Camberley",
+                "timezone": "Europe/London",
+                "timezone_offset": "0",
+                "postal_code": "GU15 3SA",
+                "raw": "Camberley, England, United Kingdom"
+            }
+        }
+    }
