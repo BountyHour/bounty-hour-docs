@@ -18,11 +18,20 @@ Why not spend an hour of your time to do something challenging, and get paid ext
 
 ### Managers
 
-Got a problem that's been plaguing you for months, and nobody on the team seems able to solve it? Instead of hiring a contractor for a week and hoping you get lucky, put out a BountyHour. Review experts, choose your requirements, and post. No fix, no fee. 
+Got a problem that's been plaguing you for months, and nobody on the team seems able to solve it? Instead of hiring a contractor for a week and hoping you get lucky, put out a BountyHour. Review verified experts, choose your requirements, and post. No fix, no fee. 
 
 ### Investors / employees
 
 Low risk, as BH is just a middleman. Low overheads, high scalability. Ability to cross-sell / upsell easily to high-wealth individuals.
+
+## USP
+
+What makes BountyHour different to all the other programming bounty sites?
+
+1. **Scope**: BountyHour is only for solving bugs, crashes, and problems. It's not for general software development.
+2. **Private**: Bounties have public metadata, but any detailed data is only shown to potential hunters, and code is only shown to an assigned hunter.
+3. **All in one**: Code management, communications, *and* payments all within the platform.
+4. **Hunters**: Instead of independent freelancers trying to earn a living, BountyHour mostly uses already employed people looking for an extra challenge.
 
 ## Dictionary
 

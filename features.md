@@ -29,7 +29,7 @@
 * Ability to submit bounties
     * Public (shown on hunter's profile)
         * Brief 1-sentence description
-        * Tags
+        * Tags (obtained from StackOverflow's API)
         * Approx engineers attempted so far (optional)
     * Protected (shown to potential hunters)
         * Detailed description
